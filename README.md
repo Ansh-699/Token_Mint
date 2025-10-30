@@ -1,7 +1,6 @@
 # Turbin3-Ansh (T3A) - Solana Devnet SPL Token Task-2
 
-
----
+- **Final-Token[T3A]**: [View on Solana Explorer](https://explorer.solana.com/address/44rwMB76AsTSYtW8NRdvLFFT3ffLgVcHRYaSjfG1TpZb?cluster=devnet)
 
 ## Token Details
 
